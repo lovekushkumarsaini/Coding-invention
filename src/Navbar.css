@@ -1,0 +1,22 @@
+.navbar {
+  width: 100%;
+  background-color: black;
+  height: 50px;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  padding-left: 50px;
+}
+
+.navbar > h1 {
+  color: white;
+  font-size: 18px;
+}
+
+.logo {
+  height: 30px;
+  margin-right: 25px;
+  border-radius: 2px;
+  width: auto;
+}

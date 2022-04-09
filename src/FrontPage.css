@@ -1,0 +1,20 @@
+.frontpage {
+  padding-top: 20px;
+  padding-left: 80px;
+}
+
+.frontpage > h2 {
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.frontpage_content {
+  display: flex;
+  flex-direction: row;
+  padding-top: 25px;
+  height: 100%;
+}
+
+.front_heading {
+  color: lightslategrey;
+}
